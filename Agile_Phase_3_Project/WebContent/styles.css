@@ -1,0 +1,58 @@
+.activeUserSymbol{
+	margin-top:4px;
+	margin-left:10%;
+	height: 15px;
+	width: 15px;
+	background-color: red;
+	border-radius: 50%;
+	display: inline-block;
+}
+.activeSales{
+	margin-top:10px;
+	margin-left:10%;
+	height: 15px;
+	width: 15px;
+	background-color: #64b5f6;
+	border-radius: 50%;
+	display: inline-block;
+}
+.header
+{
+	margin-top:2px;
+	background-color:#2C7CAD;
+	height:7%;
+	width:100%;
+	position:relative;	
+}
+.text1{
+margin-left:15%;
+}
+.text2{
+margin-left:18%;
+}
+.text3{
+margin-left:20%;
+}
+#menu{
+	color:white;
+	font-size:20px;
+	margin:10px 10px 10px 10px;
+}
+#uname
+{
+	color:white;
+	margin:10px 10px 10px 10px;
+	font-size:20px;
+}
+#pageTitle{
+	color:white;
+	margin-left:45%;
+	font-size:25px;
+}
+html, body, #container {
+	var chart = new CanvasJS.Chart("chartContainer",animationEnabled: true);
+    width: 100%;
+    height: 90%;
+    margin: 0;
+    padding: 0;
+}
