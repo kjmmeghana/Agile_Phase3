@@ -2,13 +2,13 @@
 
 # Technologies and Languages Used(Front End):
 
-HTML(Hyper Text Markup Language) 
+HTML(Hyper Text Markup Language): 
 To design a webpage which is static.
 
-CSS(Cascading Style Sheets)
+CSS(Cascading Style Sheets):
 In order to add styles to webpage.
 
-JS(Java Script)
+JS(Java Script):
 In oreder to perform updates and actions as per the dersired options.
 
 
