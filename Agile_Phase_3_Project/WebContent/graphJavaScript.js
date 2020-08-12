@@ -152,7 +152,8 @@ function updateChart()
     var series = chart.column([
         ['January', data[0]],
         ['February', data[1]],
-        ['March', data[2]], 
+        ['March', data[2]],
+	['April', data[3]],
     ]);  
 
     chart.yScale().minimum(0);  
